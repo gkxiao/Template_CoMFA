@@ -1,7 +1,7 @@
 <h2>README</h2>
 This directory enables the complete implementation of 'template CoMFA', as introduced in the following references.
 
-1. Cramer RD. Template CoMFA Generates Single 3D-QSAR Models that, for Twelve of Twelve Biological Targets, Predict All ChEMBL-Tabulated Affinities. PloS oneÊ10.6 (2015): e0129307. doi.org/10.1371/journal.pone.0129307
+1. Cramer RD. Template CoMFA Generates Single 3D-QSAR Models that, for Twelve of Twelve Biological Targets, Predict All ChEMBL-Tabulated Affinities. PloS One(2015),10(6): e0129307. doi.org/10.1371/journal.pone.0129307
 2. Cramer RD, Wendt B. Template CoMFA: The 3D-QSAR Grail? J Chem Inf Model. 2014; 54:660Ð671 doi: 10.1021/ci400696v. pmid:24437630Ê
 3. Cramer RD. Template CoMFA applied to 114 Biological Targets. J Chem Inf Model. 2014; 57:2147Ð2156Ê
 4. Wendt B, Cramer RD. Challenging the Gold Standard for 3D-QSAR: Template CoMFA versus X-ray Alignment. J. Comp-Aided Mol Des. 2014; 28:803Ð824 doi: 10.1007/s10822-014-9761-z. pmid:24934658
