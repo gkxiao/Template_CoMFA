@@ -20,10 +20,10 @@ This directory enables the complete implementation of 'template CoMFA', as intro
 # change to folder d4
 cd d4
 
-# to run demo
+# to run D4 demo
 ./d4.sh
 
-#to clean the demo result
+# to clean up the demo result
 ./clean.sh
 </pre>
 
