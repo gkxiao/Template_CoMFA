@@ -1,3 +1,4 @@
+<h2>README</h2>
 This directory enables the complete implementation of 'template CoMFA', as introduced in the following references.
 
 1. Cramer RD. Template CoMFA Generates Single 3D-QSAR Models that, for Twelve of Twelve Biological Targets, Predict All ChEMBL-Tabulated Affinities. PloS oneÊ10.6 (2015): e0129307. doi.org/10.1371/journal.pone.0129307
@@ -22,6 +23,6 @@ Please direct any feedback or questions to rdcramer3cfa@gmail.com.
 ./clean.sh
 </pre>
 
-Please direct any feedback or questions to gkxiao@molcalx.com.
-Home page: http://www.molcalx.com.cn
-Blog : http://blog.molcalx.com.cn
+<p>Please direct any feedback or questions to gkxiao@molcalx.com.</p>
+<p>Home page: http://www.molcalx.com.cn</p>
+<p>Blog : http://blog.molcalx.com.cn</p>
