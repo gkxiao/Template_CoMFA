@@ -16,6 +16,9 @@ Please direct any feedback or questions to rdcramer3cfa@gmail.com.
 
 <h2>Case study: D4 receptor</h2>
 <pre line="1" lang="shell">
+# change to folder d4
+cd d4
+
 # to run demo
 ./d4.sh
 
