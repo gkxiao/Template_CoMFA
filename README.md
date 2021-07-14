@@ -1,10 +1,10 @@
 <h2>README</h2>
 This directory enables the complete implementation of 'template CoMFA', as introduced in the following references.
 <ol>
-   <li>Cramer RD. Template CoMFA Generates Single 3D-QSAR Models that, for Twelve of Twelve Biological Targets, Predict All ChEMBL-Tabulated Affinities. PloS One(2015),10(6): e0129307. doi.org/10.1371/journal.pone.0129307</li>
-   <li>Cramer RD, Wendt B. Template CoMFA: The 3D-QSAR Grail? J Chem Inf Model. 2014; 54:660-671. doi:10.1021/ci400696v.</li>
-   <li>Cramer RD. Template CoMFA applied to 114 Biological Targets. J Chem Inf Model.2014;57:2147-2156.</li>
-   <li> Wendt B, Cramer RD. Challenging the Gold Standard for 3D-QSAR: Template CoMFA versus X-ray Alignment. J. Comp-Aided Mol Des. 2014; 28:803-824. doi: 10.1007/s10822-014-9761-z. pmid:24934658</li>
+   <li>Cramer RD. Template CoMFA Generates Single 3D-QSAR Models that, for Twelve of Twelve Biological Targets, Predict All ChEMBL-Tabulated Affinities. PloS One(2015),10(6): e0129307. https://doi.org/10.1371/journal.pone.0129307</li>
+   <li>Cramer RD, Wendt B. Template CoMFA: The 3D-QSAR Grail? J Chem Inf Model. 2014; 54:660-671. http://doi.org/10.1021/ci400696v.</li>
+   <li>Cramer RD. Template CoMFA Applied to 116 Biological Targets. J. Chem. Inf. Model. 2014, 54 (7), 2147–2156. https://doi.org/10.1021/ci500230a.</li>
+   <li> Wendt B, Cramer RD. Challenging the Gold Standard for 3D-QSAR: Template CoMFA versus X-ray Alignment. J. Comp-Aided Mol Des. 2014; 28:803-824. http://doi.org/10.1007/s10822-014-9761-z. pmid:24934658</li>
 </ol>
 
 <p>The 'tcfa' program performs the template CoMFA alignments themselves. Although its alignment algorithm significantly differs from the one described in the references, its output produces very similar models.</p>
